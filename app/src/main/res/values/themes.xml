@@ -2,4 +2,5 @@
 <resources>
 
     <style name="Theme.MaterialUITutorial" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.MaterialUITutorialMainTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge" />
 </resources>
