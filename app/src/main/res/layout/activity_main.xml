@@ -11,4 +11,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Hello and Welcome to the Material UI tutorial" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/showBottomSheet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show bottomsheet" />
 </LinearLayout>
